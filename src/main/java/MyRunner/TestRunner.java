@@ -17,7 +17,7 @@ import cucumber.api.junit.Cucumber;
 			)
 	 
 	public class TestRunner {
-	 //test line 1 for commit
+	 //test line 1 for commit abc
 	}
 	
 	//ORed : tags = {"@SmokeTest , @RegressionTest"} -- execute all tests tagged as @SmokeTest OR @RegressionTest
